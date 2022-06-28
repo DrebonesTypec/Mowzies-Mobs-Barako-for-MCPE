@@ -1,31 +1,31 @@
 {
   "Config": [
     {
-      "interval": 5,
+      "interval": 2,
       "backup": "unity",
       "status": true,
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": false,
-      "texture": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "admob_open_ads": "ca-app-pub-9730108346595961/8732637960",
+      "admob_banner": "ca-app-pub-9730108346595961/3671882973",
+      "admob_inter": "ca-app-pub-9730108346595961/3920947370",
+      "admob_native": "ca-app-pub-9730108346595961/8981702365",
      
       
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "0d47b97f643b9f1d",
+      "applovin_inter": "8f618c73f73831c8",
+      "applovin_native": "5fad6e1320174f97",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
@@ -35,12 +35,36 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Foliaath Addon",
+        "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity. When you kill it, it drops its seeds for you, but don't hope that you can tame it because it will keep attacking you. I hope you like this addon",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/Foliaath Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/5/1.png"
+    },
+    {
+        "name": "Naga Addon",
+        "role": "This addon adds a ferocious winged snake called Nagas, which lives in coastal cliffs and stony beaches, and is very aggressive towards players as it shoots poisonous acid shells at them.I hope you like this addon",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/Naga.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/6/1.png"
+    },
+    {
+        "name": "UNOFFICIAL Mowzie's Mobs V1.5",
+        "role": "This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/enam.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/UNOFFICIAL Mowzie's Mobs V1.5.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/1/dua.png"
+    },
+    {
+        "name": "Black FW Addon",
+        "role": "This addon adds a great looking, huge, and extremely powerful armored beast that has many combat poses, is impervious to all sources of damage, is extremely aggressive and attacks all creatures even Armor Stand has not been spared.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/Black FW.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/2/1.png"
     }
   ],
   "Map": [
@@ -55,12 +79,44 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Craft Sims (B)",
+        "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims BEH.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/1.jpeg"
+    },
+    {
+        "name": "Craft Sims (R)",
+        "role": "Craft Sims Introduction Hey! you there! Are you tired of stepping into your world and feeling alone? With no one to talk to or hang out with? Well those days are over my friend! Because the Craft Sims addon brings a new species to the game that is nothing more and nothing less than humans! and with that you can become friend, enemy and even date, marry and have children with them!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/5.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/Craft Sims RES.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/4.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/7/3.jpeg"
+    },
+    {
+        "name": "Not Mowzie's Mobs Addon (B)",
+        "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/5.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/4.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png"
+    },
+    {
+        "name": "Not Mowzie's Mobs Addon (R)",
+        "role": "This addon adds a savage, untamable plant that attacks every person, animal, beast, or thing that gets close enough to it that it can attack that entity, and adds a ferocious winged snake called Nagas, and adds a huge and extremely powerful armored beast that has many combat poses.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/NOT Mowzie RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/3/1.png"
+    },
+    {
+        "name": "Minecraft 1.18 Mobs Skin Pack",
+        "role": "At some point during a MINECRAFT game, haven't you seen an axolotl and wanted to become one? Or on the other hand, do you think you would intimidate your enemies by seeing yourself as The Warden? Well then this mob skin pack is for you.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/MINECRAFT_1.18_MOBS_SKIN_PACK.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Mowzies/4/1.jpeg"
     }
   ],
   "Skins": [
@@ -87,7 +143,109 @@
     "name_skin": "",
     "skin_url": "https://lh3.googleusercontent.com/OSMUT0Lvc1ECdpIrIxEgyz0DAMZWS0GmnsMYPVhE_0A4bWUuIr9sMxGzINJh7liI49EdhHqyABJvwAxfpi-lqOQ",
     "view_skin": "https://lh3.googleusercontent.com/vqU311so02a5WarPQixo17szCxqDLBmBcg8TVsR0v28TlbZWcbhtHfmLaDVqoGk5wmPG6cBKpvM7h3kLqDTlnQ"
-    }
+    },
+    {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/zM928auXjTHl84Vl7e0aoxZGXwWtFSHt9SEacYrECOtFQQivAmu2Ja9_b5RiephLQe5j3Yl3-T-su3lueb3leL7leVjsY7wjKg",
+    "view_skin": "https://lh3.googleusercontent.com/EHXL1g1x2AJRdg-NxEQKWEqv-YLBY2UdiaadLno6wmMI4losLDjCKbaKgp24IfS_c7KB7i5BvWxGreu58t9bydQrZyPX0D8T20w"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9MjJNNaM7v0_LGm5p34dszwY5dc-S9FPodOHDTHBQFjWe7bIKgqjuitjvludbpD7QRH4sSec9WdTxaXiORXl-iMN5rl0AymdDY0",
+    "view_skin": "https://lh3.googleusercontent.com/_ZcIy2ZCjF3WF7cv2zbRFSRZXWjsDg9pOpA0sIT-nWxz5CvkRYVVlnVJdZHfezzCeJziN6IueyQp_2UbzScGQCPEcWExvDep_g5Y"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9MjJNNaM7v0_LGm5p34dszwY5dc-S9FPodOHDTHBQFjWe7bIKgqjuitjvludbpD7QRH4sSec9WdTxaXiORXl-iMN5rl0AymdDY0",
+    "view_skin": "https://lh3.googleusercontent.com/VkHjgFX_UG-4XUcXqyU1PrXjQtXDcNVyyZ3ufu9AE3Shr7SvwvH6KUUkD2pmYFFstavFhMDcD40Bgh02KYZv_qHMQa1NSDiKB2w"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kfm1rVa1rpT56c0_ynaAfEo9wb_otId_Db5uRTDX3e_FuWy80m344RZbQUt1VSjEBB-ZmUuZ-glW7DEeXafbzxegpCRkEAA5_LG2",
+    "view_skin": "https://lh3.googleusercontent.com/BfT9d5dNCJu3srPqy-S0Wmv4cdbc_Owf_udugHjs-fpM9TMxIQTzOOKU8ah0NXDlfbUtOkP_NBOomw4gtHndbwL3Cpe64vR-WEHW"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/idU5C7bZXkEHnJLOr4LaNItqtQXt9tQ0cbNnnF8ZGjrbHSYcx_E2jiTJHQmu4ImZTA5uZlKFzx2Y2RdaAZW5fvmeFtyrjUpkmQ",
+    "view_skin": "https://lh3.googleusercontent.com/z4A_jIGpi1oLABKnKj_ZAoSe8nZf9CbnUwPBJib1gnOCoO82u-GK86_Ice50hbxo64yjZdcP4X7P-sfQF-E4ZksLBusJFx0EBmQ"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/txJLPBgtQxfS_Z5TSX63efzpgdDyaPfhZP3AcjaeK8IC53HdWLp7GLarCi6-aU_OEL0j2JDAuOw0YcUSp0fF6fFIuKV0kGXRWw",
+    "view_skin": "https://lh3.googleusercontent.com/rFiAF5HoEH6zucDfh8zPbCwnQlrnEi8god7ORNpJPJZXLdNlgKV9bUVzz7CiOfhpw66h1wVUyeIO-cmDCKRvrT4QrKe6k60l5jqC"
+  },
+  {
+    "id": 11,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/o6kEPOEVNc2MCwk5D_d8gF3LCo60_qmV1bxWgO8z3GotTbEK8MEMWOnytOIZIF3IMs-GLkhi7J-CMr7LlWvKaNiAGW9lCsDavZk",
+    "view_skin": "https://lh3.googleusercontent.com/3mLGIsfdqFs3a41QoCUjyawW9qS-R0mWQ0eDyx5yXbzjL2h3m8xy5ECkVFeJ6HUMi8USdiNWrBPzE1c6X4YLbVTBnUwlAinlfxBT"
+  },
+  {
+    "id": 12,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/X7M1JScSDlqNUrqBvkGeovO1Rg-cKtHoDL1cgdkP_EQtxUzgm5hy4crrFDwqnF7EdB-T1hvFA5LOy2_ukOI_EPQUkdEcl5noE0V1",
+    "view_skin": "https://lh3.googleusercontent.com/SMCRLiOho7HphU-kzXJrx-HM4RoFf85OVW5wtD11OOxewwwG4L6UYHjbnCBs7yJ9qMjluAFPU3LipRCCiOwVZN-ARaAedymeqk0"
+  },
+  {
+    "id": 13,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/2EID8xaBxZ36Nw_CHcY3xuTLb3IW2x44KMkU-OII5EHVG7t_sjH0QWBCDQZ5dUL_Qv-dod92xi_iwGxhaMuXiw",
+    "view_skin": "https://lh3.googleusercontent.com/4tl7RTuDriJyBQrKUcVBBK77elYYrkABEYHG4DTt7RfdZ1R8hWZSzlRMaY1az-cdA5Qx8m1GYdUEshDOMwyekZ4"
+  },
+   {
+    "id": 14,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/rZzbPEqqwrUX9dnaHgrbwCz3E27PnG_a_-MoB3PtUp5eP0-Ekamn13HHeqhAo4Fo__MS6BCDaO-MbfVe6FXsrtHWAWMSQJtBPX0",
+    "view_skin": "https://lh3.googleusercontent.com/vcdaxQaUfL0G4kskk8mwrgtevHD9VLb98GfpFYbFG9_nlB63lzPq1xBRzankRTq5u8gNxp1W6cntCkuDs--MNFRjfFgSxu5_2VA0"
+  },
+  {
+    "id": 15,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/1jwW2Wup_PBQbtZapLtNMRm5QiTZXPojTGRhhEwazyLPvt6eFtxa0ACry5PHGaZrSJLjJnDM8WySgUpyMaZ9h_8MZXQkpJ8CPe4",
+    "view_skin": "https://lh3.googleusercontent.com/bUsagKF6bLVFFj6AaVrtztH2AB9o7qOF4n-K-WEKHqn1dmFn9DAMOaNHQJA3LoeyzfR95Hxo7RtOAZm_jyPGE6cYsitrzg_8Xsc"
+  },
+  {
+    "id": 16,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/7LFWJnO4tDM79ZzJ9qukyB9N_OuNokNPQT2pa4ybHKLeA4zgNbP1eOJkI1A1xvH_R3uoM95roVHdJ-fVWb5qsyD7g3z8UljJ--c",
+    "view_skin": "https://lh3.googleusercontent.com/QuAn64vxDDRBWFuXsSR7CrZuSwMU1GB_NX4RayO3KpLPHjae9RIGCZBKbZInOky5q9a9KBl-x7yC-2OBgFHSskmXE5kOkpzEaQ"
+  },
+  {
+    "id": 17,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/fSo9tccfAvPiR0OL-k4tk1snYQB7IVDB8B3BL4SSFC7w6f_UCe0sUDK6ID6e4J9vl_Viq7Nwt5cRUnvJxJuhx-B0o6jTKXHEWw",
+    "view_skin": "https://lh3.googleusercontent.com/L22jfiI3KEzP92_vIYd5IuGgdgypZ1dRkwCTMC8sYJBXQuHRdh3QJRBFliijoBkcdukYK-9ieQ5B18UrxyRO_5RHykC7RiDtrmk"
+  },
+  {
+    "id": 18,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/aL3RCwGNktwnTKkPvTovM0ezj_kjWNpU70gxB2ShBRP1w1RZ_HawKV7BF7275Vth0KRKbjlAmpeaG3SpcInfCOOCqSxbGRSZMTWr",
+    "view_skin": "https://lh3.googleusercontent.com/O_gi22-jMXRjhpxw9iG1PErNDWgjVqSyK_4DcPmqsYaplCIT2iyYQJTioBZ8LXM04sOxY2AYX3rt0LeELrPf5RM49BZInRDl"
+  },
+  {
+    "id": 19,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/oUmG0teVv1PLpAXV9eVdDLI1ervbFOifSGziaCuJiRCkmeohZ8p0DDCwovoLtNMTBMYmF8X-dS7GFy7vtysu2NpGnDogS1z_1L8",
+    "view_skin": "https://lh3.googleusercontent.com/PuQuaXsBYGFr8dWL3b0ueOzzKlBT5SPcgzuuAxsDVAjYeYAntBcWl17t6gTm-ISqUNcX0RAqZvbxcRkpeGgAI1nksi42uBp0bsc"
+  },
+  {
+    "id": 20,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/LmUjprR0DBhuueakGsd2NjDy_puG7qbbN8G1SpN2rUwiuULJgLPOtI3FwJHQ32RGe_cxX_GCPyobBu-1IpMe",
+    "view_skin": "https://lh3.googleusercontent.com/M-FfVbr5fX8DYf2c-o5tNDO-1lIRIXU56nS7NE4oUxmIOWXccw0S1PYtlwxCaVrkQp_3olossaFWyA1ro0SM0W8"
+  },
+  {
+    "id": 21,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/Y5p07C-U95UxM-5QxLfkRgkcrkJ6EyMY614ISznEk8qdnkHul0Rtl-BRN6fI_VRqYO4NaM_6GuZKNy4L8SxpJw",
+    "view_skin": "https://lh3.googleusercontent.com/yId5SBgs1RCSxbOt9qybv29ViAvSPcDdlYABOVF5W_jSsJukPB_xDzNHbpbjNI2xGxW5n262tBD20Li6fP60Aw"
+  }
   ],
   "More":
   [
